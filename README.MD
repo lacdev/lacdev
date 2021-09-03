@@ -1,2 +1,6 @@
-Hi there! :wave: I'm currently studying web development. 
+# Hi there! :wave: 
+
+### I'm currently studying software development 🚀. 
+
+
 
