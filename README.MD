@@ -1,1 +1,2 @@
-Hi there! :hear_no_evil: I'm currently studying software development. 
+Hi there! :wave: I'm currently studying web development. 
+
