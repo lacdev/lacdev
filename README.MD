@@ -1,4 +1,4 @@
-#Learning something new everyday! :memo: 
+###Learning something new everyday! :memo: 
 
 ### Currently studying software development :computer:
 
