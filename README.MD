@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at **Kodemia**
 
-- 🌱 I’m currently learning **Javascript and NodeJs**
+- 🌱 I’m currently learning **Everythings related to Javascript**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
