@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **everything related to Javascript.**
 
-- 👯 I Keep learning **something new every day.**
+- 👯 I looking to contribute to **Open Source Projects**
 
 
 <h3 align="left">Languages and Tools:</h3>
