@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Germán</h1>
 <h3 align="center">A passionate web development student from México.</h3>
 
-- 🔭 I’m currently studying at **Kodemia**
+- 🔭 I’m currently studying at **Kodemia.**
 
-- 🌱 I’m currently learning **Everything related to Javascript**
+- 🌱 I’m currently learning **everything related to Javascript.**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I Keep learning **something new every day.**
 
 
 <h3 align="left">Languages and Tools:</h3>
