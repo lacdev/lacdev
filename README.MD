@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Germán</h1>
 <h3 align="center">A passionate web development student from México.</h3>
 
-- 🔭 I’m currently studying at **Kodemia.**
+- 🔭 I’m currently studying **Fullstack Web Development**
 
-- 🌱 I’m currently learning **everything related to Javascript.**
+- 🌱 Currently learning **everything related to Javascript.**
 
 - 👯 I looking to contribute to **Open Source Projects**
 
