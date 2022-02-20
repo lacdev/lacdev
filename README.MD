@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/express%20-%2368a063.svg?&style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/node.js%20-%233c873a.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=aws&logoColor=orange" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/https://img.shields.io/badge/-AWS-orange?&style=for-the-badge&logo=aws&logoColor=orange" />&nbsp;&nbsp;&nbsp;
 
 
 ![Grmnmtz's GitHub stats](https://github-readme-stats.vercel.app/api?username=grmnmtz&show_icons=true&theme=tokyonight)
