@@ -1,6 +1,6 @@
 <h3 align="center">Javascript Fullstack Web Developer from México.</h3>
 
-- 🔭 I’m currently working on **my personal blog and portfolio website.**
+- 🔭 I’m currently working on **my personal blog.**
 
 - 🌱 I’m currently learning **Typescript, Next.js and Redux**
 
