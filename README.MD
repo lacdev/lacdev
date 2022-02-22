@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **my personal blog.**
 
-- 🌱 I’m currently learning **Typescript, Next.js and Redux**
+- 🌱 I’m currently learning **Typescript**
 
 - 👯 I’m looking to contribute to **Open Source projects**
 
