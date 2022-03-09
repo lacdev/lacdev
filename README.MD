@@ -1,4 +1,4 @@
-<h3 align="center">Javascript Fullstack Web Developer from México.</h3>
+<h3 align="center">Javascript Web Developer from México.</h3>
 
 - 🔭 I’m currently working on **my personal blog.**
 
