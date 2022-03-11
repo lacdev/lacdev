@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/node.js%20-%233c873a.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/express%20-%2368a063.svg?&style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/mongodb%20-%234DB33D.svg?&style=for-the-badge&logo=mongodb&logoColor=white"  />&nbsp;&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) &nbsp;&nbsp;&nbsp;
+<!-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) &nbsp;&nbsp;&nbsp; -->
 
 ***
 
