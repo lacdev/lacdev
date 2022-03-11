@@ -1,16 +1,26 @@
-<h3 align="center">Javascript Web Developer from México.</h3>
+<h3 align="center">I'm a JavaScript Web Developer from México.</h3>
 
-- 🔭 I’m currently working on **my personal blog.**
+- 🌱 I’m currently learning Typescript.
 
-- 🌱 I’m currently learning **Typescript**
+- 🔭 I’m working on personal projects to keep improving my skills.
 
-- 👯 I’m looking to contribute to **Open Source projects**
+- 👯 I’m looking to contribute to Open Source projects.
+
+
+<h3 align="center">Some of the tools I have experience with:</h3>
+
+*** 
 
 <img src="https://img.shields.io/badge/javascript%20-%23F0DB4F.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=blue" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/node.js%20-%233c873a.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/express%20-%2368a063.svg?&style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/mongodb%20-%234DB33D.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/mongodb%20-%234DB33D.svg?&style=for-the-badge&logo=mongodb&logoColor=white"  />&nbsp;&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) &nbsp;&nbsp;&nbsp;
+
+***
 
 ![Grmnmtz's GitHub stats](https://github-readme-stats.vercel.app/api?username=grmnmtz&show_icons=true&theme=tokyonight)
 
