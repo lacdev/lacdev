@@ -1,6 +1,6 @@
-<h3 align="center">I'm a JavaScript Web Developer from México.</h3>
+<h3 align="center">I'm Software Developer from México.</h3>
 
-- 🌱 I’m currently learning Typescript.
+- 🌱 I mainly work with JavaScript and I'm currently learning Typescript.
 
 - 🔭 I’m working on personal projects to keep improving my skills.
 
