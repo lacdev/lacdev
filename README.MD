@@ -1,6 +1,6 @@
 <h3 align="center">I'm a Full Stack Web Developer from México.</h3>
 
-- 🌱 I mainly work with JavaScript and I'm currently learning TypeScript among other stuff.
+- 🌱 I'm usually working with JavaScript and I'm currently learning TypeScript as well.
 
 - 🔭 I’m working on personal projects to keep improving my skills.
 
