@@ -20,7 +20,7 @@
 
 ***
 
-![Grmnmtz's GitHub stats](https://github-readme-stats.vercel.app/api?username=grmnmtz&show_icons=true&theme=tokyonight)
+<!-- ![Grmnmtz's GitHub stats](https://github-readme-stats.vercel.app/api?username=grmnmtz&show_icons=true&theme=tokyonight) -->
 
 
 
