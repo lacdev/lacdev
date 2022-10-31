@@ -1,4 +1,4 @@
-<h3 align="center">I'm a Full Stack Web Developer from México.</h3>
+<h3 align="center">I'm a web developer.</h3>
 
 - 🌱 I'm usually working with JavaScript and TypeScript. 
 
