@@ -4,7 +4,7 @@
 
 - 🔭 I’m working on personal projects to keep improving my skills while learning new things everyday.
 
-- Currently working for an awesome company.
+- I'm interested to contribute to open source projects.
 
 <h3 align="center">Some of the tools I have experience with:</h3>
 
