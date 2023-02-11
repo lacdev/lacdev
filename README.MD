@@ -1,10 +1,8 @@
 <h3 align="center">Hi there! I'm a full stack web developer.</h3>
 
-- 🌱 I'm usually working with JavaScript and TypeScript. 
+-  🌱 I’m working on personal projects using JavaScript and TypeScript to keep improving my skills.I love  learning new things everyday.
 
-- 🔭 I’m working on personal projects to keep improving my skills while learning new things everyday.
-
-- I'm interested to contribute to open source projects.
+-  🔭 I'm interested to contribute to open source projects.
 
 <h3 align="center">Some of the tools I have experience with:</h3>
 
