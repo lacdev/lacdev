@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋</h1>
 
-<h3 align="center">I'm a web developer from México</h3>
+<h3 align="center">I'm a passionate web developer.</h3>
 
 - 🔭 I’m currently working on **an AdTech Company**
 
